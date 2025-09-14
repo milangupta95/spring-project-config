@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-    message: "Welcome to the accounts service - QA"
+    message: "Welcome to the accounts service - QA - Contact Milan is QA"
     contact:
         email: "{cipher}573cda7353edcb993a9378c94a540a3439d3d95ad4faace2c6d55a243d4b064b83d5eb461a5718f59248194cf529c4af"
         name: "Milan"
