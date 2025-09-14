@@ -4,7 +4,7 @@ build:
 
 
 loans:
-    message: "Welcome to the Loans service - QA"
+    message: "Welcome to the Loans service - QA - Edited By Milan"
     contact:
         email: "loansqa@eazybank.com"
         name: "Loans Default"
