@@ -1,0 +1,13 @@
+build:
+    version: 1.0.0
+    name: "loans-service-Default"
+
+
+loans:
+    message: "Welcome to the Loans service - Local"
+    contact:
+        email: "loansdefault@eazybank.com"
+        name: "Loans Default"
+    on_call_support:
+      - "+1234567890"
+      - "+0987654321"

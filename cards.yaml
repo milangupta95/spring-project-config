@@ -1,0 +1,13 @@
+build:
+    version: 1.0.0
+    name: "cards-service-Default"
+
+
+cards:
+    message: "Welcome to the cards service - Local"
+    contact:
+        email: "cardsdefault@eazybank.com"
+        name: "Cards Default"
+    on_call_support:
+      - "+1234567890"
+      - "+0987654321"

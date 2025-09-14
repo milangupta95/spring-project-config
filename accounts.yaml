@@ -1,0 +1,13 @@
+build:
+    version: 1.0.0
+    name: accounts-service
+
+
+accounts:
+    message: "Welcome to the accounts service - Default"
+    contact:
+        email: "milangupta95@gmail.com"
+        name: "Milan"
+    on_call_support:
+        - "+1234567890"
+        - "+0987654321"

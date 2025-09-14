@@ -1,0 +1,17 @@
+spring:
+    config:
+        activate:
+            on-profile: prod
+build:
+    version: 1.0.0
+    name: accounts-service-prod
+
+
+accounts:
+    message: "Welcome to the accounts service - Production"
+    contact:
+        email: "prod@eazybank.com"
+        name: "prod"
+    on_call_support:
+        - "+1234567990"
+        - "+0987654123"
