@@ -4,7 +4,7 @@ build:
 
 
 cards:
-    message: "Welcome to the cards service - QA - Edited By Milan"
+    message: "Welcome to the cards service - QA - Edited By Milan - 2.0"
     contact:
         email: "cardsqa@eazybank.com"
         name: "Cards QA"
